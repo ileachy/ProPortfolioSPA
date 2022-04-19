@@ -42,3 +42,7 @@
 -For any questions or concerns please open an issue or email me at ileach81@gmail.com
 
 ## <img id="screenshots" src="https://github.com/teamjuli0/readme-badges/blob/main/themes/clean-dark/menu-categories/screenshots.png?raw=true" style="height: 40px">
+
+Deployed link: https://ileachy.github.io/ProPortfolioSPA/
+
+<img style="margin: 0 0 15px 0" src="src/assets/images/portfolio final.png"
