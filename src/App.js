@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <>
+    <div>
       <header class="navbar">
         <h1 class="logo">The Ian Index</h1>
         <input type="checkbox" class="nav-toggle" id="nav-toggle" />
@@ -41,7 +41,6 @@ function App() {
             </div>
           </div>
         </section>
-
         <section id="projects">
           <div class="parts">
             <h2>Projects!</h2>
@@ -77,7 +76,7 @@ function App() {
           <p></p>
         </div>
       </footer>
-    </>
+    </div>
   );
 }
 
