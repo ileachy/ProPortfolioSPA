@@ -4,29 +4,6 @@ import "./App.css";
 function App() {
   return (
     <>
-      <header class="navbar">
-        <h1 class="logo">The Ian Index</h1>
-        <input type="checkbox" class="nav-toggle" id="nav-toggle" />
-        <nav class="nav-items">
-          <ul>
-            <li>
-              <a href="#home">Home</a>
-            </li>
-            <li>
-              <a href="#about">About</a>
-            </li>
-            <li>
-              <a href="#projects">Projects</a>
-            </li>
-            <li>
-              <a href="#contacts">Contact Me</a>
-            </li>
-          </ul>
-        </nav>
-        <label for="nav-toggle" class="nav-toggle-label">
-          <span></span>
-        </label>
-      </header>
       <main class="content">
         <section id="about">
           <div class="parts">
@@ -69,11 +46,6 @@ function App() {
           </div>
         </section>
       </main>
-      <footer id="contacts">
-        <div class="footer-content">
-          <h2 class="section-title">Contact me!</h2>
-        </div>
-      </footer>
     </>
   );
 }
