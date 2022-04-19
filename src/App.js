@@ -52,7 +52,7 @@ function App() {
                   </a>
                 </div>
                 <div class="img">
-                  <img src="./assets/images/TheJobHunterFinal.png" alt="" />
+                  <img src="../../assets/images/TheJobHunterFinal.png" alt="" />
                 </div>
               </div>
               <div class="part-img">
@@ -62,7 +62,17 @@ function App() {
                   </a>
                 </div>
                 <div class="img">
-                  <img src="./assets/images/sweetSportsStuff.jpg" alt="" />
+                  <img src="../../assets/images/sweetSportsStuff.jpg" alt="" />
+                </div>
+              </div>
+              <div class="part-img">
+                <div class="img-title">
+                  <a href="https://sweeney-seafood.herokuapp.com/">
+                    Sweeny's seafood
+                  </a>
+                </div>
+                <div class="img">
+                  <img src="../assets/images/final-ss.jpg" alt="" />
                 </div>
               </div>
             </div>
