@@ -3,7 +3,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div>
+    <>
       <header class="navbar">
         <h1 class="logo">The Ian Index</h1>
         <input type="checkbox" class="nav-toggle" id="nav-toggle" />
@@ -72,11 +72,9 @@ function App() {
       <footer id="contacts">
         <div class="footer-content">
           <h2 class="section-title">Contact me!</h2>
-          <div></div>
-          <p></p>
         </div>
       </footer>
-    </div>
+    </>
   );
 }
 
