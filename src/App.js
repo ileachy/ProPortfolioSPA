@@ -1,5 +1,4 @@
 import React from "react";
-import Home from "./components/pages/Home";
 import "./App.css";
 
 function App() {
@@ -28,7 +27,6 @@ function App() {
           <span></span>
         </label>
       </header>
-
       <main class="content">
         <section id="about">
           <div class="parts">
